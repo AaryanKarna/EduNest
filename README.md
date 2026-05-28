@@ -21,6 +21,8 @@ React, TypeScript, Tailwind CSS, Express, Node.js
 
 ## Getting Started
 npm install
+
+
 npm run dev
 
 ## Developer
