@@ -25,4 +25,3 @@ npm run dev
 
 ## Developer
 Aaryan Karn
-Kathmandu University School of Education
